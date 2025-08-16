@@ -13,8 +13,8 @@ Pode ser usado como base para **amigo secreto**, dinâmicas em grupo ou jogos in
 - ✅ Adicionar nomes de amigos à lista.  
 <!-- - ✅ Verificar se o nome é válido (sem repetir e apenas letras). -->
 - ✅ Sortear um nome aleatório da lista.  
-- ✅ Remover o nome sorteado da lista.  
-- ✅ Exibir mensagem quando todos os nomes forem sorteados.  
+<!-- - ✅ Remover o nome sorteado da lista.-->  
+<!-- - ✅ Exibir mensagem quando todos os nomes forem sorteados.-->  
 
 ---
 
